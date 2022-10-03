@@ -1,7 +1,9 @@
 # (Beta) Postman script for API
 THIS IS TO BE USED FOR EVALUATION PURPOSE ONLY. WE ARE NOT HOLDING ANY ACCOUNTABILITY AND RESPONSIBILITY AGAINST ANY CASES OF OUTCOMES BY UTILIZING THE SCRIPTS SHOWN IN THIS REPOSITORY 
 
-Postman collections for simple API call to Equinix Fabric service.
+Postman collections for simple API call to Equinix Fabric product.
+
+[Equinix Fabric Portal](https://fabric.equinix.com/)
 
 ## Contents of repo
 - Token_generator
