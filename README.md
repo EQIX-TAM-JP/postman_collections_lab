@@ -21,7 +21,7 @@ Postman collections for simple API call to Equinix Fabric product.
 
 ## How to setup
 1. Launch [Postman](https://www.postman.com/)
-2. Follow the steps per [guide](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-from-github-repositories)
+2. Follow the steps per [guide](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-from-github-repositories) to import the data into postman.
 3. Fill up variables with your own.
    - Click **Environment quick look** at the top right corner.
      - <sub>Postman</sub>
