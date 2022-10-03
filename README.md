@@ -33,3 +33,12 @@ Postman collections for simple API call to Equinix Fabric product.
      - <img width="703" alt="userinfo2" src="https://user-images.githubusercontent.com/109955201/193501814-47b94912-ef0b-4b5c-9e23-b5cbbf3d8700.png">
    - fill up **vc_uuid**, **ned_uuid**, and other parameters as well for your call.
 
+---
+## Use case
+
+### VC lookup
+
+1. Generate **access_token** by calling API with "Token_generator".
+2. Make a call with "VC_lookup".
+   - <sub>response successful</sub>
+   - ![response](https://user-images.githubusercontent.com/109955201/193509583-0e1c055c-2b3e-4141-88d5-4ac91b88fdaf.png)
