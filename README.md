@@ -26,7 +26,7 @@ THIS IS TO BE USED FOR EVALUATION PURPOSE ONLY. WE ARE NOT HOLDING ANY ACCOUNTAB
    - 画面右上の**Environment quick look**をクリック
      - <sub>Postman</sub>
      - ![env quicklook](https://user-images.githubusercontent.com/109955201/193489769-ee15fbdf-7e55-4c93-9621-3630e2fbcde8.png)
-   - APIコールのため[Equinix Developer Platform](https://developer.equinix.com/)で生成した**client_id**と**client_secret**を変数に入力
+   - APIコールのため[Equinix Developer Platform](https://developer.equinix.com/)で生成した**client_id**と**client_secret**をCurrent Value変数に入力
      - <sub>Equinix developer platform</sub>
      - <img width="656" alt="userinfo" src="https://user-images.githubusercontent.com/109955201/193498978-87897281-25d6-4c3f-bd26-3532dccc2658.png">
      - <sub>Postman</sub>
