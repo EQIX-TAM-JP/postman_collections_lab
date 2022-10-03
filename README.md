@@ -12,10 +12,20 @@ THIS IS TO BE USED FOR EVALUATION PURPOSE ONLY. WE ARE NOT HOLDING ANY ACCOUNTAB
 1. You need [Postman](https://www.postman.com/downloads/) in your machine to call an API with the script in this repo.
 2. You need to have a valid account of [Equinix Fabric Portal](https://fabric.equinix.com/). Please reach out to your CSM if you don't have one.
 3. You need to have a valid account of [Equinix Developer Platform](https://developer.equinix.com/). Please reach out to your CSM if you don't have one.
-4. You need [Github](https://github.com/) account.
+4. You need to generate **client_id** and **client_secret**. please follow the [guide](https://developer.equinix.com/docs?page=/dev-docs/fabric/overview).
+5. You need [Github](https://github.com/) account.
 
 ## How to setup
 1. Launch [Postman](https://www.postman.com/)
 2. Follow the steps per [guide](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-from-github-repositories)
-3. Populate those valiriables with your own.
-   3.1 Click **Environment quick look** at the top right corner.
+3. Fill up variables with your own.
+   - Click **Environment quick look** at the top right corner.
+     - <sub>Postman</sub>
+     - ![env quicklook](https://user-images.githubusercontent.com/109955201/193489769-ee15fbdf-7e55-4c93-9621-3630e2fbcde8.png)
+   - **client_id** and **client_secret** in current value field should be what you see on [Equinix Developer Platform](https://developer.equinix.com/).
+     - <sub>Equinix developer platform</sub>
+     - <img width="656" alt="userinfo" src="https://user-images.githubusercontent.com/109955201/193498978-87897281-25d6-4c3f-bd26-3532dccc2658.png">
+     - <sub>Postman</sub>
+     - <img width="703" alt="userinfo2" src="https://user-images.githubusercontent.com/109955201/193501814-47b94912-ef0b-4b5c-9e23-b5cbbf3d8700.png">
+   - fill up **vc_uuid**, **ned_uuid**, and other parameters as well for your call.
+
