@@ -5,7 +5,7 @@ Postman collections for simple API call to Equinix Fabric product.
 
 [Equinix Fabric Portal](https://fabric.equinix.com/)
 
-## Contents of repo
+## Contents
 - Token_generator
 - VC_lookup
 - NE_lookup
@@ -38,7 +38,7 @@ Postman collections for simple API call to Equinix Fabric product.
 
 ### VC lookup
 
-1. Generate **access_token** by calling API with "Token_generator".
-2. Make a call with "VC_lookup".
+1. Generate **access_token** by calling API with "Token_generator" collection.
+2. Make a call with "VC_lookup" collection.
    - <sub>response successful</sub>
    - ![response](https://user-images.githubusercontent.com/109955201/193509583-0e1c055c-2b3e-4141-88d5-4ac91b88fdaf.png)
