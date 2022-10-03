@@ -16,7 +16,7 @@ THIS IS TO BE USED FOR EVALUATION PURPOSE ONLY. WE ARE NOT HOLDING ANY ACCOUNTAB
 1. ご自身のPCに[Postman](https://www.postman.com/downloads/)を導入
 2. [Equinix Fabric Portal](https://fabric.equinix.com/)の有効なアカウント お持ちでない場合はCSM担当者にご連絡下さい
 3. [Equinix Developer Platform](https://developer.equinix.com/)の有効なアカウント お持ちでない場合はCSM担当者にご連絡下さい
-4. **client_id** と **client_secret**を生成する [ガイド](https://developer.equinix.com/docs?page=/dev-docs/fabric/overview)を参照下さい
+4. **client_id** と **client_secret**を生成する [ガイド](https://developer.equinix.com/dev-docs/fabric/getting-started/getting-access-token#generating-client-id-and-client-secret)を参照下さい
 5.  [Github](https://github.com/) のアカウント
 
 ## 設定方法
@@ -26,7 +26,7 @@ THIS IS TO BE USED FOR EVALUATION PURPOSE ONLY. WE ARE NOT HOLDING ANY ACCOUNTAB
    - 画面右上の**Environment quick look**をクリック
      - <sub>Postman</sub>
      - ![env quicklook](https://user-images.githubusercontent.com/109955201/193489769-ee15fbdf-7e55-4c93-9621-3630e2fbcde8.png)
-   - APIコールのため[Equinix Developer Platform](https://developer.equinix.com/)で[生成](https://developer.equinix.com/dev-docs/fabric/getting-started/getting-access-token#generating-client-id-and-client-secret)した**client_id**と**client_secret**をCurrent Value変数に入力
+   - APIコールのため[Equinix Developer Platform](https://developer.equinix.com/)で生成した**client_id**と**client_secret**をCurrent Value変数に入力
      - <sub>Equinix developer platform</sub>
      - <img width="656" alt="userinfo" src="https://user-images.githubusercontent.com/109955201/193498978-87897281-25d6-4c3f-bd26-3532dccc2658.png">
      - <sub>Postman</sub>
