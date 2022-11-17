@@ -15,7 +15,7 @@ THIS IS TO BE USED FOR EVALUATION PURPOSE ONLY. WE ARE NOT HOLDING ANY ACCOUNTAB
 ## 要件
 1. ご自身のPCに[Postman](https://www.postman.com/downloads/)を導入
 2. [Equinix Fabric Portal](https://fabric.equinix.com/)の有効なアカウント お持ちでない場合はCSM担当者にご連絡下さい
-3. [Equinix Developer Platform](https://developer.equinix.com/)の有効なアカウント お持ちでない場合はCSM担当者にご連絡下さい
+3. [Equinix Developer Platform](https://developer.equinix.com/)の有効なアカウント お持ちでない場合はグローバルサービスデスクにご連絡下さい
 4. [ガイド](https://developer.equinix.com/dev-docs/fabric/getting-started/getting-access-token#generating-client-id-and-client-secret)を参照し**client_id** と **client_secret**を生成する
 5.  [Github](https://github.com/) のアカウント
 
